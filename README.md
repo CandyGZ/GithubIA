@@ -1,4 +1,4 @@
-# Asistente de Código con IA para GitHub
+# Asistente de Código con IA para GitHub:
 
 Este proyecto es un asistente de software automatizado que se integra con GitHub y utiliza la API de OpenAI para realizar tareas de desarrollo, como revisiones de código y generación de documentación.
 
